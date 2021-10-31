@@ -2,4 +2,11 @@ Proyecto1 de prueba
 
 lorem ipsum dolor sit amet
 
-ahora no tiene lorem duplicado
+lorem ipsum dolor sit amet
+
+
+lorem ipsum dolor sit amet
+
+
+
+ahora ya le tripliqué el lorem ipsum
