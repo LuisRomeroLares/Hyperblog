@@ -4,9 +4,7 @@ Mi primer blog estudiando Git y Github
 Esta es la modificación a mi Readme.md en el cual agrego unos comentarios en Latex y unos diagramas de flujo todos chulos:
 Para más ejemplos ir [aquí.](https://pandao.github.io/editor.md/en.html "link para Editor")
 
-
-
-            
+   
 ###TeX(LaTeX)
    
 $$E=mc^2$$
